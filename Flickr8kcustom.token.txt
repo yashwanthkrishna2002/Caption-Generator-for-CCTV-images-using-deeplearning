@@ -1,0 +1,459 @@
+pic1.jpg#0     There are customers in a shop
+pic1.jpg#1     Customers are standing infront of the desk
+pic1.jpg#2     A few customers are paying their bills in the front desk of a shop
+pic1.jpg#3     There are four men and two women are walking in a shop 
+pic1.jpg#4     The customers are choosing the groceries in the shop
+pic2.jpg#0     A robber is pointing the gun towards a customer
+pic2.jpg#1     Two robbers are threatening the workers in a shop
+pic2.jpg#2     An arguement is goin between robbers and customers
+pic2.jpg#3     The shop is under robbery
+pic2.jpg#4     The black dressed robbers are pointing a gun towards the workers
+pic3.jpg#0     A man is in atm centre
+pic3.jpg#1     A man wearing helmet is present in atm centre
+pic3.jpg#2     A man is checking his wallet in atm centre 
+pic3.jpg#3     A man is trying to withdraw cash in atm centre
+pic3.jpg#4     A man is standing outside of the atm centre waiting for his turn to enter into atm 
+pic4.jpg#0     The shop is under robbery 
+pic4.jpg#1     A serious arguement is going on between a robber and a customer in shopping mall
+pic4.jpg#2     A robber is pointing a gun near the cash counter in a mall
+pic4.jpg#3     A guy wearing hoody is pointing a gun towards another man
+pic4.jpg#4     A guy is pointing a gun towards the customer in a shopping mall
+pic5.jpg#0     A guy working in the dress selling shop
+pic5.jpg#1     There are no customers in the shop
+pic5.jpg#2     The workers are working in the shop
+pic5.jpg#3     A few members are standing infront of the shop
+pic5.jpg#4     There is no person in the cash counter
+pic6.jpg#0     A few people are walking through the corridor
+pic6.jpg#1     Two persons are carrying a huge bag in the corridor
+pic6.jpg#2     Two workers are carrying a trash bag in the corridor
+pic6.jpg#3     Normal way of wark is going on
+pic6.jpg#4     Two persons wearing masks are carrying a huge bag
+pic7.jpg#0     A man is dancing in a street
+pic7.jpg#1     A man is houting in middle of night in th street corner
+pic7.jpg#2     A few people are walking through edge of the street 
+pic7.jpg#3     A man is walking in middle of the street
+pic7.jpg#4     A man is drunk and dancing and shouting in th street at mid night
+pic8.jpg#0     A man is threating a woman in a house
+pic8.jpg#1     The house is under heist
+pic8.jpg#2     A man pointing a gun towards a woman in the hall of a house
+pic8.jpg#3     A man is snatching the gold chains from a woman
+pic8.jpg#4     All of the house members are scared and threatened by theives
+pic9.jpg#0     A guy wearing mask is threating a woman by showing a knife in atm centre
+pic9.jpg#1     A theif is threating a woman to give cash in atm centre
+pic9.jpg#2     A theif is trying to snatch chains in the atm centre
+pic9.jpg#3     A serious arguemnt is going in between the people in atm centre
+pic9.jpg#4     There are two people at a time in the atm centre
+pic10.jpg#0    A man is pointing gun towards the shop keeper in the shop
+pic10.jpg#1    A man is at cash counter in the shop
+pic10.jpg#2    The theif is threatening the shopkeeper to give the money
+pic10.jpg#3    A man has lifted his both hands
+pic10.jpg#4    The environment at the cash counter is in serious situation
+pic11.jpg#0    A man is in atm centre
+pic11.jpg#1    A man is trying to withdraw cash from atm machine
+pic11.jpg#2    A man is standing infront of a atm machine
+pic11.jpg#3    A man is entering details in the atm machine
+pic11.jpg#4    A person is standing infront of a atm machine
+pic12.jpg#0    A pink dress woman is entering into a atm centre
+pic12.jpg#1    A pink dress woman is opening the door
+pic12.jpg#2    A woman is entering into telephone booth
+pic12.jpg#3    A old lady is standing infront of the atm centre
+pic12.jpg#4    A lady in pink dress top is entering into the booth
+pic13.jpg#0    A black dress man is present in atm centre
+pic13.jpg#1    A man wearing a black mask is trying to open atm machine
+pic13.jpg#2    The man is using tools to open an atm machine
+pic13.jpg#3    The man in black dress is trying to break out the atm machine
+pic13.jpg#4    A man in black tshirt is standing infront of atm machine
+pic14.jpg#0    Two men are standing infront of atm machine
+pic14.jpg#1    A man is wearing a yellow cap is watching his infront person details that are being typed in atm machine
+pic14.jpg#2    The blue dress security person is watching what has been going near atm machine
+pic14.jpg#3    A man waering yellow shirt is trying to withdraw cash from the atm machine
+pic14.jpg#4    There are three persons in a single atm centre at a time
+pic15.jpg#0    Two white shirt guys are fighting each other in the atm centre
+pic15.jpg#1    The atm centre is under robbery
+pic15.jpg#2    A grey shirt person is hitting the head of white shirt person
+pic15.jpg#3    The grey shirt guy is wearing a black mask
+pic15.jpg#4    The atm is broken and the cash is theft
+pic16.jpg#0    A red top woman is standing infront of grocery stand 
+pic16.jpg#1    A woman in red dress is trying to find her things in the mall
+pic16.jpg#2    The woman wearing red dress is hiding things in her cloths
+pic16.jpg#3    A girl in red dress is infront of cool drinks section in the shop
+pic16.jpg#4    The woman is finding the drink that she wanted from the cool drinks section
+pic17.jpg#0    A woman is withdrawing her cash from the atm machine
+pic17.jpg#1    The woman is holding a blue color purse in her hands
+pic17.jpg#2    A woman in light green color dress is withdrawing cash from atm machine
+pic17.jpg#3    The woman in green color top is wearing a coat in grey color and prsernt in atm centre
+pic17.jpg#4    The woman in grey color coat is holding her atm card and cash from the at machine
+pic19.jpg#0    There is single atm machine in atm centre
+pic19.jpg#1    The atm machine is in grey color
+pic19.jpg#2    The atm machine is broken apart
+pic19.jpg#3    The atm machine is under repair due to broken parts
+pic19.jpg#4    The parts of the atm machine are fallen apart
+pic21.jpg#0    A man in red color shirt and black pant is throwing something onto another person
+pic21.jpg#1    The man in red shirt is in the shop and throwing something
+pic21.jpg#2    The man in black dress is guarding himself from falling things on him
+pic21.jpg#3    The glass is getting broken by throing things on it
+pic21.jpg#4    The man in black pant is little bent 
+pic22.jpg#0    Two men wearing black color dress are snatching money from the atm machine
+pic22.jpg#1    The two men in black drees is opening the door
+pic22.jpg#2    The men in black color dress are carrying bags 
+pic22.jpg#3    two men are running are running away from the atm centre
+pic22.jpg#4    The two men are wearing hoodies and covered their faces with black mask
+pic23.jpg#0    A woman in pink color top is hitting the atm machine
+pic23.jpg#1    A man in white shirt is opening the door of atm machine
+pic23.jpg#2    A girl wearing pink top and grey bottom is trying to withdraw cash from atm machine
+pic23.jpg#3    There are two atm machines infront of each other in the atm centre
+pic23.jpg#4    Two persons are in the atm centre
+pic24.jpg#0    A man in blecheck scarf is using a big iron rod to break the machine
+pic24.jpg#1    The man in is black color is hitting the atm machine with long iron rod
+pic24.jpg#2    There are two men in the atm centre and trying to break the machine
+pic24.jpg#3    The two men are covering their faces
+pic24.jpg#4    The atm machine is broken by hitting it with a ong iron rod by a person in blue color checks scarf
+pic25.jpg#0    There are group of members in the barbers shop
+pic25.jpg#1    A group of people are fighting each other in the shop
+pic25.jpg#2    A serious environment is going on in ths shop
+pic25.jpg#3    A group of people wearing a white shirts
+pic25.jpg#4    A man in blue tshirt is wearing a white color head scarf
+pic26.jpg#0    A man in pink shirt and white color pant is entering into an atm machine
+pic26.jpg#1    The man in prink shirt is waering gloves to his hands
+pic26.jpg#2    The man is wearing a blue color cap is opening his mask
+pic26.jpg#3    The man is walking inside the atm centre
+pic26.jpg#4    The man in pink dress is standing infront of the atm machine
+image1.jpg#0     A man with knife is thief 
+image1.jpg#1     Man with white collar is robbed
+image1.jpg#2     The thief is wearing a hoodie
+image1.jpg#3     There are four juice cans on the desk
+image1.jpg#4     there are three covers hanging to shelf                    
+image2.jpg#0     The man in blue shirt has gun in his hand 
+image2.jpg#1     The man in white shirt is shopkeeper 
+image2.jpg#2     There is desk in between them
+image2.jpg#3     The desk is in white colour
+image2.jpg#4     There is a glass shelf beside white desk
+image3.jpg#0     The man in red shirt is standing
+image3.jpg#1     The man in blue shirt in bending
+image3.jpg#2     The man with black jacket is looking right
+image3.jpg#3     There ate total of three people
+image3.jpg#4     The picture is not clear
+image5.jpg#0     There is a man with black jacket   
+image5.jpg#1     The man has gun in his hand
+image5.jpg#2     The man is shooting the store
+image5.jpg#3     There are three trollys in the picture
+image5.jpg#4     The man is wearing brown sneakers
+image6.jpg#0     This is a black and white image   
+image6.jpg#1     There is a man with hoodie
+image6.jpg#2     There is a women with long hair
+image6.jpg#3     There is desk in between them
+image6.jpg#4     The women is giving hange to the man
+image7.jpg#0     There are six cars in the image    
+image7.jpg#1     There are four people in the image
+image7.jpg#2     Old man with cap is drawing money from atm
+image7.jpg#3     There are two people with hoodie behind the old man
+image7.jpg#4     Time is six twenty six am
+image8.jpg#0     There are lot of people running in image 
+image8.jpg#1     There is a elephant replica in image
+image8.jpg#2     The man in white shirt is with a kid
+image8.jpg#3     Women with violet dress is carrying a purse
+image8.jpg#4     There are cloths on the desk
+image9.jpg#0     There are three people in image
+image9.jpg#1     The man with hoodie is thief
+image9.jpg#2     The thief has a gun in his hand
+image9.jpg#3     There is a desk in between them 
+image9.jpg#4     There are three monitors on the desk
+image10.jpg#0    This looks like a mall in image
+image10.jpg#1    The customers are lying down on the floor
+image10.jpg#2    The mall is being robbed
+image10.jpg#3    There is also a car in the image
+image10.jpg#4    There is rado wath shop on right corner
+image11.jpg#0    There is a man with grey shirt
+image11.jpg#1    The man is having gun in his hand
+image11.jpg#2    The man is showing gun in the mirror
+image11.jpg#3    There are kitchen tools on right top corner
+image11.jpg#4    The man is wearing a blue jeans
+image12.jpg#0    There are three people in the image
+image12.jpg#1    Two people are lying down on the floor
+image12.jpg#2    The thief is wearing blue shirt
+image12.jpg#3    The thief is wearing a cap
+image12.jpg#4    There is a tv on the right wall
+image13.jpg#0    There are two people in the image
+image13.jpg#1    One man in lying on the floor
+image13.jpg#2    The robber is carrying a gun
+image13.jpg#3    The robber is wearing a face mask
+image13.jpg#4    The chairs are broken
+image14.jpg#0    The room is conjusted
+image14.jpg#1    There is a printer in the room 
+image14.jpg#2    There are many electronic devices
+image14.jpg#3    There is a chair beside printer
+image14.jpg#4    There is vaccum cleaner beside chair  
+image15.jpg#0    There is a hand in the image
+image15.jpg#1    This looks like a atm machine
+image15.jpg#2    The atm has a camera
+image15.jpg#3    There is a card in the hand
+image15.jpg#4    The card is in blue colour
+image16.jpg#0    There is a man with black dhirt
+image16.jpg#1    The man is carrying juice cans
+image16.jpg#2    There is lays written beside him
+image16.jpg#3    There are doritos on the shelf
+image16.jpg#4    The man is identified to be in friends tv show
+image17.jpg#0    There are three people in the image  
+image17.jpg#1    They are pushimmg a car
+image17.jpg#2    The car they are pushing is in white ccolour
+image17.jpg#3    The area is appearing to be a parking lot
+image17.jpg#4    There are so many cars in there
+image19.jpg#0    This is a store
+image19.jpg#1    There are three people
+image19.jpg#2    One man with black jacket
+image19.jpg#3    Other man with blue hoodie
+image19.jpg#4    There is a moniter behind black man
+image20.jpg#0    The appeared image is black and white 
+image20.jpg#1    This shows a closed store
+image20.jpg#2    The time is five two am
+image20.jpg#3    The date is eighth feb
+image20.jpg#4    There is alcohol on the shelf
+image21.jpg#0    This is movie store      
+image21.jpg#1    There is a man in the image
+image21.jpg#2    The man is wearing a black shirt
+image21.jpg#3    The man is wearing joggers
+image21.jpg#4    The man coverd his head with plastic bag
+image22.jpg#0    This appeard to be a closed room
+image22.jpg#1    There are two people in the image
+image22.jpg#2    One man face is coverd
+image22.jpg#3    The face coverd man is wearing a white shirt
+image22.jpg#4    The other man is wearing a blue shirt
+image25.jpg#0    There are two people in the image
+image25.jpg#1    One man is wearing a white shirt
+image25.jpg#2    Other man is wearing a brown sweater
+image25.jpg#3    The man with sweater has broom in his hand
+image25.jpg#4    They are inside a room coverd with glass doors
+Pimg1.jpg#0     A man came into the supermarket which have red boxes and yellow boxes 
+Pimg1.jpg#1     The man covered his face with mask which is in black colour
+Pimg1.jpg#2     The man was wearing a hoody which is in black and grey colour
+Pimg1.jpg#3     The man is likely came to the shop to rob
+Pimg1.jpg#4     The man is wearing a black shoe
+Pimg2.jpg#0     A women was there in the store
+Pimg2.jpg#1     She was wearing a hoody which in black in colour
+Pimg2.jpg#2     She covered her face with the mask and glasses
+Pimg2.jpg#3     She was at the counter which have a monitor on it
+Pimg2.jpg#4     She was wearing the gloves which. Are placed on the table
+Pimg3.jpg#0     A man was present in the gold shop
+Pimg3.jpg#1     The was having a gun in his hand which is black in colour
+Pimg3.jpg#2     The was carrying a bag which is red in colour
+Pimg3.jpg#3     There are two more people except the man who are black dresses
+Pimg3.jpg#4     The gold items was places on a tray and also caluculator on the table
+Pimg4.jpg#0     It was a store room
+Pimg4.jpg#1     There were more than one object
+Pimg4.jpg#2     There was a wheel chair
+Pimg4.jpg#3     There is a grey coloured chair
+Pimg4.jpg#4     There were boxes present
+Pimg5.jpg#0     There was a man in the shop who wore navy blue colour shirt
+Pimg5.jpg#1     There was a women who wore grey colour dress
+Pimg5.jpg#2     There were objects on the table
+Pimg5.jpg#3     Man was wearing cap which was white in colour
+Pimg5.jpg#4     Man was also wearing a mask which was black in colour
+Pimg6.jpg#0     There is one man dancing on the road
+Pimg6.jpg#1     Three men were in a room and one person was wearing    black shirt
+Pimg6.jpg#2     A men was on the road who wore white pants
+Pimg6.jpg#3     two men were having kerchief which was white in colour
+Pimg6.jpg#4     A man in the room was not wearing a shirt but wearing white vest
+Pimg7.jpg#0     There is a man who is trying to hide from someone
+Pimg7.jpg#1     The man was trying to hide with help of an object
+Pimg7.jpg#2     The man was wearing gloves which are black in colour
+Pimg7.jpg#3     The man was wearing shoes
+Pimg7.jpg#4     There are objects on the table
+Pimg8.jpg#0     There was a man outside who wore black shirts
+Pimg8.jpg#1     One man was inside the store who wore red shirt
+Pimg8.jpg#2     The man outside the store was wearing a black pants
+Pimg8.jpg#3     Multiple objects were there in the store which are in red and green in colour
+Pimg8.jpg#4     Multiple objects were there on table which are in red in colour
+Pimg9.jpg#0     There are two people in a ATM booth
+Pimg9.jpg#1     There is a man who wore blue stripes shirt
+Pimg9.jpg#2     There is a women who wore red and white colour dress
+Pimg9.jpg#3     Women was carrying a bag which is in re din colour
+Pimg9.jpg#4     The man’s hand was on the neck of the women
+Pimg10.jpg#0    There is a man who wore pink shirt
+Pimg10.jpg#1    The man was wearing a blue cap
+Pimg10.jpg#2    The man was wearing gloves which are white in colour
+Pimg10.jpg#3    There is a entrance door which have a white sticker on it
+Pimg10.jpg#4    There is a ATM machine which have a blue border
+Pimg11.jpg#0    There is a man wearing white shirt
+Pimg11.jpg#1    One man was wearing cap which. Is In black in colour
+Pimg11.jpg#2    There is a oxygen cylinder which is black in colour
+Pimg11.jpg#3    There is a man who is wearing white mask
+Pimg11.jpg#4    There is a gas cylinder black in colour
+Pimg12.jpg#0    There are two people in a ATM booth
+Pimg12.jpg#1    There is a man was wearing pink shirt
+Pimg12.jpg#2    There is a women a black dress
+Pimg12.jpg#3    There is a entrance door which having blue marks on it
+Pimg12.jpg#4    Man was covering his face with    kerchief which is white in colour
+Pimg13.jpg#0    There is a man who was wearing blue strips shirt
+Pimg13.jpg#1    There is a entrance door which is black in colour
+Pimg13.jpg#2    There is a ATM machine which is in white in colour
+Pimg13.jpg#3    Man was using the ATM machine
+Pimg13.jpg#4    Man was wearing green pants
+Pimg14.jpg#0    There is a man wearing white check shirt
+Pimg14.jpg#1    There is a man who is wearing green colour cap
+Pimg14.jpg#2    Man was wearing a mask
+Pimg14.jpg#3    There is a computer which is in black colour
+Pimg14.jpg#4    There is a mobile phone 
+Pimg15.jpg#0    There are two people in a ATM booth
+Pimg15.jpg#1    There is a man wearing blue check shirt
+Pimg15.jpg#2    There is a women wearing white dress
+Pimg15.jpg#3    Women was carrying a bag    which in black in colour      
+Pimg15.jpg#4    Man is carrying a knife which is sliver in colour
+Pimg16.jpg#0    There are two people in a ATM booth                  
+Pimg16.jpg#1    There is a man is wearing pink shirt
+Pimg16.jpg#2    There is a women
+Pimg16.jpg#3    There is a entrance door with sticker on the door
+Pimg16.jpg#4    Man is doing something with ATM machine
+Pimg17.jpg#0    There is a man wearing black jacket in a ATM
+Pimg17.jpg#1    Man was wearing a blue coloured cap
+Pimg17.jpg#2    Man was wearing a mask which in black colour
+Pimg17.jpg#3    There is a entrance door and having a sticker with a logo
+Pimg17.jpg#4    There is a ATM machine which is in white colour
+Pimg18.jpg#0    There are two people in the ATM booth
+Pimg18.jpg#1    There is a man was wearing a blue checked shirt
+Pimg18.jpg#2    There is a women wearing a white jacket
+Pimg18.jpg#3    Man was having a gun which is black in colour
+Pimg18.jpg#4    Man was having knife in the left hand
+Pimg19.jpg#0    There are two men in a shop
+Pimg19.jpg#1    One man was carrying a gun and wore grey sweater
+Pimg19.jpg#2    One man was wearing a mask which is white in colour
+Pimg19.jpg#3    One man was wearing a cap which is cement in colour
+Pimg19.jpg#4    There are multiple items on the table 
+Pimg20.jpg#0    There are four men in a wine shop
+Pimg20.jpg#1    One was wearing a white shirt
+Pimg20.jpg#2    There are multiple items on the table 
+Pimg20.jpg#3    Three men were sitting who wore white shirts
+Pimg20.jpg#4    One man was standing who wore red shorts
+1.jpg#0   A man enters into atm to steal money
+1.jpg#1   a man enters into a park
+1.jpg#2   a man leaves the park
+1.jpg#3   a man leaves the park with his dog
+1.jpg#4   A girl going into a wooden building
+2.jpg#0   a man catching another mans collar
+2.jpg#1   A little girl is sitting in front of a large painted rainbow 
+2.jpg#2   A small girl in the grass plays with fingerpaints in front of a white canvas with a rainbow on it
+2.jpg#3   There is a girl with pigtails sitting in front of a rainbow painting .
+2.jpg#4   Young girl with pigtails painting outside in the grass 
+3.jpg#0   a man in cap in atm
+3.jpg#1   A man lays on a bench while his dog sits by him
+3.jpg#2   A man lays on the bench to which a white dog is also tied
+3.jpg#3   A shirtless man lies on a park bench with his dog 
+3.jpg#4   A child playing on a rope net
+4.jpg#0   man entering the shop
+4.jpg#1   a man in blue shirt leaves the shop
+4.jpg#2   people robbing a gu shop
+4.jpg#3   people stealing a flower shop
+4.jpg#4   a man in red shirt enters the shop
+5.jpg#0   a man in red shirt leaves the atm
+5.jpg#1   a man in black shirt enters the atm 
+5.jpg#2   a man enters a school
+5.jpg#3   a man punches the wall
+5.jpg#4   a man runs into a field
+6.jpg#0   two people are in atm
+6.jpg#1   four people are in atm
+6.jpg#2   a man enters atm
+6.jpg#3   a man runs into a hospital
+6.jpg#4   a man dances
+7.jpg#0   it is an atm
+7.jpg#1   this is a school
+7.jpg#2   this is a hospital
+7.jpg#3   this is a park
+7.jpg#4   this is a bank
+8.jpg#0   a man in black shirt enters a shop
+8.jpg#1   a man in white shirt enters a shop
+8.jpg#2   a man enters a school
+8.jpg#3   a man holding a gun enters a shop
+8.jpg#4   a man in red shirt
+9.jpg#0   a man in blue shirt in a bank
+9.jpg#1   a man in black shirt enters atm
+9.jpg#2   a man enters a school
+9.jpg#3   a man leaves a hospital 
+9.jpg#4   a man leaves a school
+10.jpg#0  a man with a gun in a store 
+10.jpg#1  a man with a flower
+10.jpg#2  a man with a bat in a store
+10.jpg#3  a man with flower in a park
+10.jpg#4  a man with a gun in bed
+11.jpg#0  a man in black shirt in a shop
+11.jpg#1  a man in white shirt leaving a store
+11.jpg#2  a man goes in a park
+11.jpg#3  a man goes into a school
+11.jpg#4  a man in red shrit leaving a shop
+12.jpg#0  a man in blue shirt entering a jewellery shop 
+12.jpg#1  a man in pink shirt enters a shop
+12.jpg#2  a man in red shirt leaves a shop
+12.jpg#3  a man in black shirt enters a shop
+12.jpg#4  a man enters a park
+13.jpg#0  a man in red shirt enters a park
+13.jpg#1  a man in black shirt in a shop
+13.jpg#2  a man in white shirt leaving a store
+13.jpg#3  a man in red shrit leaving a shop
+13.jpg#4  a man in pink shirt enters a shop
+14.jpg#0  a man with a gun in a store 
+14.jpg#1  a man with a flower
+14.jpg#2  a man with a bat in a store
+14.jpg#3  a man with flower in a park
+14.jpg#4  a man with a gun in bed
+15.jpg#0  a man with a gun in a store 
+15.jpg#1  a man with a flower
+15.jpg#2  a man with a bat in a store
+15.jpg#3  a man with flower in a park
+15.jpg#4  a woman in red dress in a shop
+16.jpg#0  a broken atm machine
+16.jpg#1  a man man in red shirt in atm 
+16.jpg#2  a woman in atm
+16.jpg#3  a man in black shirt in atm
+16.jpg#4  a man in red shirt in a shop
+17.jpg#0  a man in red shirt infront of atm
+17.jpg#1  a man in a shop
+17.jpg#2  a atm with many people in front of it
+17.jpg#3  an atm with two people infront of it
+17.jpg#4  an shop with many people in front of it
+18.jpg#0  a man in white hoodie leaving a shop
+18.jpg#1  a man in black hoodie leaving a shop
+18.jpg#2  a man leaving a bank
+18.jpg#3  a man in black hoodie entering a bank
+18.jpg#4  a man leaving a shop
+19.jpg#0  a man hitting a woman 
+19.jpg#1  a woman hitting a woman
+19.jpg#2  a woman in a shop
+19.jpg#3  a man in a atm stealin money
+19.jpg#4  a man in blue shirt hitting a woman
+20.jpg#0  a man entering an atm
+20.jpg#1  a man leaving an atm 
+20.jpg#2  two people fighting in an atm
+20.jpg#3  two people fighting in a park
+20.jpg#4  ten people fighting
+21.jpg#0  two guys coming into a shop
+21.jpg#1  three people robbing a store 
+21.jpg#2  a guy is leaving the shop
+21.jpg#3  the shopkeeper is closing the shop
+21.jpg#4  a man entering an atm
+22.jpg#0  two guys coming into a shop
+22.jpg#1  three people robbing a store 
+22.jpg#2  a guy is leaving the shop
+22.jpg#3  the shopkeeper is closing the shop
+22.jpg#4  a man entering an atm
+23.jpg#0  a man in black shirt enters a shop
+23.jpg#1  a man in white shirt enters a shop
+23.jpg#2  a man enters a school
+23.jpg#3  a man holding a gun enters a shop
+23.jpg#4  a man in red shirt
+24.jpg#0  A man enters into atm to steal money
+24.jpg#1  a man enters into a park
+24.jpg#2  a man leaves the park
+24.jpg#3  a man leaves the park with his dog
+24.jpg#4  A girl going into a wooden building
+25.jpg#0  two people trying to break the atm machine
+25.jpg#1  person entering the atm
+25.jpg#2  three people leaving the atm
+25.jpg#3  five people standing outside an atm
+25.jpg#4  a man in red shirt stealing money
+
+
+
+
+
+
+
+
+
